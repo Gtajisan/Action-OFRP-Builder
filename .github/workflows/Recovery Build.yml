@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/map220v/android_device_xiaomi_nabu'
+        default: 'https://github.com/Yeliqin666/android_device_xiaomi_nabu'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
